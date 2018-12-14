@@ -63,3 +63,19 @@ Servir <- function(x,y,z,j){
   
   
 }
+
+#Desayuno: Lista de acciones.
+
+Cortar ("pan")
+Cortar ("palta")
+Cortar ("naranjas")
+Calentar ("cafe")
+Calentar ("pan cortado")
+Moler ("palta cortada")
+Preparar ("naranjas cortadas")
+Preparar ("harina","huevos")
+CalentarSarten ()
+Preparar ("masa de panqueques" ,"sartén caliente")
+Preparar ("pan tostado","palta molida")
+Rellenar ("panqueques")
+Servir ("pan tostado con palta","panqueques con manjar","jugo de naranjas","cafe caliente")
